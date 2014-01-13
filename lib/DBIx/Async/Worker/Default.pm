@@ -1,6 +1,6 @@
 package DBIx::Async::Worker::Default;
 {
-  $DBIx::Async::Worker::Default::VERSION = '0.001';
+  $DBIx::Async::Worker::Default::VERSION = '0.002';
 }
 use strict;
 use warnings;

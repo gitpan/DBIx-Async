@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use parent qw(IO::Async::Notifier);
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 NAME
 
@@ -12,7 +12,7 @@ DBIx::Async - use L<DBI> with L<IO::Async>
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 

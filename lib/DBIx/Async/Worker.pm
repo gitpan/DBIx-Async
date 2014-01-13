@@ -1,6 +1,6 @@
 package DBIx::Async::Worker;
 {
-  $DBIx::Async::Worker::VERSION = '0.001';
+  $DBIx::Async::Worker::VERSION = '0.002';
 }
 use strict;
 use warnings;
@@ -11,7 +11,7 @@ DBIx::Async::Worker - background process for L<DBIx::Async>
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 

@@ -22,7 +22,7 @@ my %WriteMakefileArgs = (
   "NAME" => "DBIx::Async",
   "PREREQ_PM" => {
     "DBI" => 0,
-    "Future" => "0.20",
+    "Future" => "0.21",
     "IO::Async" => "0.60",
     "Try::Tiny" => 0,
     "curry" => 0,
@@ -36,7 +36,7 @@ my %WriteMakefileArgs = (
     "Test::Fatal" => "0.010",
     "Test::More" => "0.98"
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -46,7 +46,7 @@ my %WriteMakefileArgs = (
 my %FallbackPrereqs = (
   "DBI" => 0,
   "File::Spec" => 0,
-  "Future" => "0.20",
+  "Future" => "0.21",
   "IO::Async" => "0.60",
   "IO::Handle" => 0,
   "IPC::Open3" => 0,

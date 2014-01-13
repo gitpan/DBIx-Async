@@ -1,6 +1,6 @@
 package DBIx::Async::Handle;
 {
-  $DBIx::Async::Handle::VERSION = '0.001';
+  $DBIx::Async::Handle::VERSION = '0.002';
 }
 use strict;
 use warnings;
@@ -11,7 +11,7 @@ DBIx::Async::Handle - statement handle for L<DBIx::Async>
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 
